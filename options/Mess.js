@@ -22,7 +22,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.mess = {
-success: '*SUKSESS...* Jangan Lupa Subscribe Zero YT7',
+success: '*SUKSESS...* Jangan Lupa Subscribe Doro504',
 admin: 'Fitur Khusus Admin Group!',
 botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
 owner: 'Fitur Khusus Owner Bot',
